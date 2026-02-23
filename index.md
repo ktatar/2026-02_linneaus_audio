@@ -40,6 +40,33 @@ Librosa
 Torch audio
 
 ---
+
+DL based feature representations
+
+Deep Embeddings
+  Autoencoders
+  CLAP 
+
+--- 
+
+Dimensionalty reduction
+
+  PCA
+  UMAP
+  T-SNE
+
+---
+
+Distances
+
+  For signals and features
+    Eucledian 
+    Cosine 
+    Frechet Audio Distance
+  For distributions
+    KL-Divergence
+
+---
 # What is TRA 385?
 
 This is a list:
