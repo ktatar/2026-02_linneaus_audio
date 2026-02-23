@@ -18,6 +18,28 @@ https://marpit.marp.app/directives?id=local-directives-1
 
 ---
 
+# Sound is so cool
+
+---
+
+# Audio Features
+
+General intro
+  Timbre
+    FFT based
+    Wavelet based
+  Envelope things
+    Energy based
+    Loudness based
+  Music specific
+    Pitch 
+    Multipitch
+    Harmony
+
+Librosa
+Torch audio
+
+---
 # What is TRA 385?
 
 This is a list:
