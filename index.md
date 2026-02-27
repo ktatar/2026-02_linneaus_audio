@@ -30,7 +30,7 @@ https://marpit.marp.app/directives?id=local-directives-1
 - Time–frequency transforms: spectrograms, mel spectrograms
 - Energy and dynamics over time (envelope, loudness curves etc.)
 
-<small>Image source: <> </small>
+<small>McFee, Brian, Colin Raffel, Dawen Liang, Daniel PW Ellis, Matt McVicar, Eric Battenberg, and Oriol Nieto. "librosa: Audio and music signal analysis in python." In Proceedings of the 14th python in science conference, pp. 18-25. 2015. </small>
 
 
 ---
