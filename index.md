@@ -24,7 +24,9 @@ https://marpit.marp.app/directives?id=local-directives-1
 
 # Audio Features
 
-General intro
+---
+
+# General intro
   Timbre
     FFT based
     Wavelet based
