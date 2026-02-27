@@ -75,6 +75,8 @@ https://musicinformationretrieval.com/content/8_music_structure_analysis/mfcc.ht
 
 Dimensionalty reduction
 
+https://musicinformationretrieval.com/content/10_decomposition/pca.html
+
   PCA
   UMAP
   T-SNE
