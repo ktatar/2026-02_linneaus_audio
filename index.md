@@ -10,18 +10,11 @@ paginate: true
 
 # Sound, Machine Learning, and Deep Generative Models: A Practical Introduction
 
-![bg opacity:30% ](tra-385.webp)
-
-The code above the title is a local directive:
-
-https://marpit.marp.app/directives?id=local-directives-1
+![bg opacity:10% ](img/wave-stft-onset.png)
 
 ---
 
-# Sound, Machine Learning, and Deep Generative Models for Humanities Researchers
-
----
-![align-right width:600](img/time-freq.png)
+![align-right width:700](img/wave-stft-onset.png)
 
 ## Basics of Sound concepts
 
