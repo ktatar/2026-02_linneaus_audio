@@ -20,7 +20,14 @@ https://marpit.marp.app/directives?id=local-directives-1
 
 # Sound, Machine Learning, and Deep Generative Models for Humanities Researchers
 
+---
 
+## Basics of Sound concepts
+
+- Waveform: dynamics, transients, envelopes
+- Frequency: pitch, overtones, timbre components
+- Time–frequency transforms: spectrograms, mel spectrograms
+- Energy and dynamics over time (envelope, loudness curves etc.)
 
 ---
 
