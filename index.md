@@ -21,7 +21,7 @@ https://marpit.marp.app/directives?id=local-directives-1
 # Sound, Machine Learning, and Deep Generative Models for Humanities Researchers
 
 ---
-![bg right: 60%](img/time-freq.png)
+![align-right width:600](img/time-freq.png)
 
 ## Basics of Sound concepts
 
