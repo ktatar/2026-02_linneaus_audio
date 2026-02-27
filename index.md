@@ -37,6 +37,9 @@ https://marpit.marp.app/directives?id=local-directives-1
 - General Introduction:
 https://www.audiolabs-erlangen.de/resources/MIR/FMP/C1/C1S3_Waveform.html
 
+- Dynamics and Loudness
+https://www.audiolabs-erlangen.de/resources/MIR/FMP/C1/C1S3_Dynamics.html
+
 - Envelope Calculation
 https://www.audiolabs-erlangen.de/resources/MIR/FMP/C1/C1S3_Timbre.html
 
