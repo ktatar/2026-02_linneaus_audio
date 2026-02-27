@@ -8,7 +8,7 @@ paginate: true
 <!-- footer: <small><i style="font-size: 8pt;font-weight:500;color:black">AI in Computational Arts, Music, and Games </small></i> <p> ![width:350](chalmers-gu.png)</p> -->
 <!-- _color: black -->
 
-# Cool title with a Background
+# Sound, Machine Learning, and Deep Generative Models for Humanities Researchers
 
 ![bg opacity:30% ](tra-385.webp)
 
@@ -18,7 +18,9 @@ https://marpit.marp.app/directives?id=local-directives-1
 
 ---
 
-# Sound is so cool
+# Sound, Machine Learning, and Deep Generative Models for Humanities Researchers
+
+
 
 ---
 
