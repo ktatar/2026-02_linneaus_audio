@@ -79,6 +79,9 @@ https://musicinformationretrieval.com/content/10_decomposition/pca.html
 
   PCA
   UMAP
+
+https://www.kaggle.com/code/adampq/umap-projections-little-shop-of-horrors-audio
+  
   T-SNE
 
 ---
@@ -96,7 +99,7 @@ Distances
 ---
 DL based feature representations
 
-Deep Embeddings
+  Deep Embeddings
   Autoencoders
   CLAP 
 
