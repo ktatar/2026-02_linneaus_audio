@@ -48,25 +48,24 @@ https://www.audiolabs-erlangen.de/resources/MIR/FMP/C1/C1S3_Timbre.html
 
 ---
 
+# Timbre and its features
+
+ FFT based
+ Wavelet based
+
 ---
 
-# General intro
-  Timbre
-    FFT based
-    Wavelet based
-  Envelope things
-    Energy based
-    Loudness based
+# Music Specific Features
   Music specific
     Pitch 
     Multipitch
     Harmony
 
-Librosa
-Torch audio
-
 ---
 
+# Importance of Features
+
+---
 DL based feature representations
 
 Deep Embeddings
