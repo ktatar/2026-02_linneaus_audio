@@ -8,7 +8,7 @@ paginate: true
 <!-- footer: <small><i style="font-size: 8pt;font-weight:500;color:black">AI in Computational Arts, Music, and Games </small></i> <p> ![width:350](chalmers-gu.png)</p> -->
 <!-- _color: black -->
 
-# Sound, Machine Learning, and Deep Generative Models for Humanities Researchers
+# Sound, Machine Learning, and Deep Generative Models: A Practical Introduction
 
 ![bg opacity:30% ](tra-385.webp)
 
@@ -29,6 +29,9 @@ https://marpit.marp.app/directives?id=local-directives-1
 - Frequency: pitch, overtones, timbre components
 - Time–frequency transforms: spectrograms, mel spectrograms
 - Energy and dynamics over time (envelope, loudness curves etc.)
+
+<small>Image source: <> </small>
+
 
 ---
 
@@ -67,7 +70,7 @@ https://www.audiolabs-erlangen.de/resources/MIR/FMP/C1/C1S3_Timbre.html
 
 ![align-center width:600](img/features-matters.png)
 
-<small>this is a smaller text. Great for citations. </small>
+<small>I. Goodfellow, Y. Bengio, and A. Courville, Deep Learning. MIT Press, 2016.</small>
 
 
 ---
