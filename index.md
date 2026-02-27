@@ -32,6 +32,12 @@ https://marpit.marp.app/directives?id=local-directives-1
 
 ---
 
+### Waves and Waveforms
+
+https://www.audiolabs-erlangen.de/resources/MIR/FMP/C1/C1S3_Waveform.html
+
+---
+
 # Audio Features
 
 ---
