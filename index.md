@@ -72,14 +72,6 @@ https://www.audiolabs-erlangen.de/resources/MIR/FMP/C6/C6S1_OnsetDetection.html
 
 <small>I. Goodfellow, Y. Bengio, and A. Courville, Deep Learning. MIT Press, 2016.</small>
 
-
----
-DL based feature representations
-
-Deep Embeddings
-  Autoencoders
-  CLAP 
-
 --- 
 
 Dimensionalty reduction
@@ -98,6 +90,18 @@ Distances
     Frechet Audio Distance
   For distributions
     KL-Divergence
+
+
+---
+DL based feature representations
+
+Deep Embeddings
+  Autoencoders
+  CLAP 
+
+---
+
+ML things one could do
 
 ---
 # What is TRA 385?
