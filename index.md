@@ -67,6 +67,12 @@ https://www.audiolabs-erlangen.de/resources/MIR/FMP/C6/C6S1_OnsetDetection.html
 
 --- 
 
+Clustering etc. 
+
+https://musicinformationretrieval.com/content/8_music_structure_analysis/mfcc.html
+
+---
+
 Dimensionalty reduction
 
   PCA
@@ -95,6 +101,9 @@ Deep Embeddings
 ---
 
 ML things one could do
+
+
+---
 
 ---
 # What is TRA 385?
