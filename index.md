@@ -47,7 +47,7 @@ https://www.audiolabs-erlangen.de/resources/MIR/FMP/C1/C1S3_Dynamics.html
 https://www.audiolabs-erlangen.de/resources/MIR/FMP/C1/C1S3_Timbre.html
 
 - Onset detection: 
-
+https://www.audiolabs-erlangen.de/resources/MIR/FMP/C6/C6S1_OnsetDetection.html
 
 ---
 
@@ -66,7 +66,7 @@ https://www.audiolabs-erlangen.de/resources/MIR/FMP/C1/C1S3_Timbre.html
 
 ---
 
-# Importance of Feature Representations in Machine Learning
+## Importance of Feature Representations in Machine Learning
 
 ![align-center width:600](img/features-matters.png)
 
