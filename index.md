@@ -65,6 +65,8 @@ https://www.audiolabs-erlangen.de/resources/MIR/FMP/C1/C1S3_Timbre.html
 
 # Importance of Features
 
+![align-center width:600](img/features-matters.png)
+
 ---
 DL based feature representations
 
