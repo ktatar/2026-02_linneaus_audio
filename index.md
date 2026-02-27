@@ -63,9 +63,12 @@ https://www.audiolabs-erlangen.de/resources/MIR/FMP/C1/C1S3_Timbre.html
 
 ---
 
-# Importance of Features
+# Importance of Feature Representations in Machine Learning
 
 ![align-center width:600](img/features-matters.png)
+
+<small>this is a smaller text. Great for citations. </small>
+
 
 ---
 DL based feature representations
