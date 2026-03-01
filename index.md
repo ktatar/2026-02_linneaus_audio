@@ -54,9 +54,15 @@ https://www.audiolabs-erlangen.de/resources/MIR/FMP/C6/C6S1_OnsetDetection.html
 
 ---
 
+![bg right width:700](img/cqt_pipeline.png)
+
 ### Wavelet based Timbre Features
 
 - Constant-Q Transform
+
+<small> [1] Schorkhuber C, Klapuri A (2010) Constant-Q Transform Toolbox
+For Music Processing. In: Proceedings of the 7th Sound and Music Computing Conference (SMC 2010), p. 8. Barcelona, Spain 
+</small>
 
 ---
 
