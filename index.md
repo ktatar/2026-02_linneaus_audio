@@ -47,7 +47,9 @@ https://www.audiolabs-erlangen.de/resources/MIR/FMP/C6/C6S1_OnsetDetection.html
 - FFT based
   - Fast Fourier Transform: https://pythonnumericalmethods.studentorg.berkeley.edu/notebooks/chapter24.04-FFT-in-Python.html
   - Short-time Fourier Transform: https://www.audiolabs-erlangen.de/resources/MIR/FMP/C2/C2_STFT-Basic.html
-  - Mel-frequency Cepstral Coefficients: 
+  - Mel-frequency Cepstral Coefficients
+    - Compute pipeline: https://www.researchgate.net/publication/257365356/figure/fig2/AS:297528441491462@1447947716655/Calculation-process-of-MFCC-coefficients.png
+    - Example: https://librosa.org/doc/latest/generated/librosa.feature.mfcc.html
 - Wavelet based
   - Constant-Q Transform
   - Variable-Q Transform
