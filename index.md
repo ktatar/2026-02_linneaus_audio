@@ -32,13 +32,11 @@ paginate: true
 
 - General Introduction:
 https://www.audiolabs-erlangen.de/resources/MIR/FMP/C1/C1S3_Waveform.html
-
+-Phase:
 - Dynamics and Loudness
 https://www.audiolabs-erlangen.de/resources/MIR/FMP/C1/C1S3_Dynamics.html
-
 - Envelope Calculation
 https://www.audiolabs-erlangen.de/resources/MIR/FMP/C1/C1S3_Timbre.html
-
 - Onset detection: 
 https://www.audiolabs-erlangen.de/resources/MIR/FMP/C6/C6S1_OnsetDetection.html
 
