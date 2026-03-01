@@ -57,6 +57,11 @@ https://www.audiolabs-erlangen.de/resources/MIR/FMP/C6/C6S1_OnsetDetection.html
 ### Wavelet based Timbre Features
 
 - Constant-Q Transform
+
+---
+
+### Other wavelet based Timbre Features
+
 - Variable-Q Transform
 - Non-stationary Gabor Transform
 
