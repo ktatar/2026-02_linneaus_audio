@@ -47,7 +47,7 @@ https://www.audiolabs-erlangen.de/resources/MIR/FMP/C6/C6S1_OnsetDetection.html
 # Timbre and its features
 
 - FFT based
-  - Fast Fourier Transform
+  - Fast Fourier Transform 
   - Short-time Fourier Transform
   - Mel-frequency Cepstral Coefficients
 - Wavelet based
