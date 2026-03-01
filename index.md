@@ -32,7 +32,7 @@ paginate: true
 
 - General Introduction:
 https://www.audiolabs-erlangen.de/resources/MIR/FMP/C1/C1S3_Waveform.html
--Phase:
+-Phase: https://images.contentful.com/piwi0eufbb2g/5HdnEvKEB7URTVKDH4iIhf/4ee0fc97b8ac2fe046c195bfc5484228/0_QFVha2lCgyhKjhuO.gif
 - Dynamics and Loudness
 https://www.audiolabs-erlangen.de/resources/MIR/FMP/C1/C1S3_Dynamics.html
 - Envelope Calculation
