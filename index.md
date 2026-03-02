@@ -70,7 +70,8 @@ For Music Processing. In: Proceedings of the 7th Sound and Music Computing Confe
 
 # Music Specific Features
   Music specific
-- Pitch 
+- Pitch:
+  https://docs.pytorch.org/audio/stable/tutorials/audio_feature_extractions_tutorial.html#sphx-glr-tutorials-audio-feature-extractions-tutorial-py 
 - Multipitch (chroma):
   - https://librosa.org/doc/latest/feature.html#spectral-features
 
