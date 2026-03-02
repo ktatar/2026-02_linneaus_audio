@@ -93,16 +93,13 @@ For Music Processing. In: Proceedings of the 7th Sound and Music Computing Confe
 
 Clustering etc. 
 
-https://musicinformationretrieval.com/content/8_music_structure_analysis/mfcc.html
-
 ---
 
 Dimensionalty reduction
 
 https://musicinformationretrieval.com/content/10_decomposition/pca.html
 
-  PCA
-  UMAP
+UMAP
 
 https://www.kaggle.com/code/adampq/umap-projections-little-shop-of-horrors-audio
   
