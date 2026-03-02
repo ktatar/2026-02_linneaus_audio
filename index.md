@@ -70,8 +70,10 @@ For Music Processing. In: Proceedings of the 7th Sound and Music Computing Confe
 
 # Music Specific Features
   Music specific
-    Pitch 
-    Multipitch
+- Pitch 
+- Multipitch (chroma):
+  - https://librosa.org/doc/latest/feature.html#spectral-features
+
     Harmony
 
 ---
