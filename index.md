@@ -75,7 +75,6 @@ For Music Processing. In: Proceedings of the 7th Sound and Music Computing Confe
 - Multipitch (chroma):
   - https://librosa.org/doc/latest/feature.html#spectral-features
 
-    Harmony
 
 ---
 
