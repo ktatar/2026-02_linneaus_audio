@@ -75,10 +75,15 @@ For Music Processing. In: Proceedings of the 7th Sound and Music Computing Confe
 - Multipitch (chroma):
   - https://librosa.org/doc/latest/feature.html#spectral-features
 
+- Beat detection: 
+  - https://librosa.org/doc/latest/generated/librosa.beat.beat_track.html
+---
+
+## Machine Learning for Sound and Music Comouting
 
 ---
 
-## Importance of Feature Representations in Machine Learning
+### Importance of Feature Representations in Machine Learning
 
 ![align-center width:600](img/features-matters.png)
 
