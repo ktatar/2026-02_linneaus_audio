@@ -79,7 +79,7 @@ For Music Processing. In: Proceedings of the 7th Sound and Music Computing Confe
   - https://librosa.org/doc/latest/generated/librosa.beat.beat_track.html
 ---
 
-## Machine Learning for Sound and Music Comouting
+## Machine Learning for Sound and Music Computing
 
 ---
 
@@ -90,10 +90,6 @@ For Music Processing. In: Proceedings of the 7th Sound and Music Computing Confe
 <small>I. Goodfellow, Y. Bengio, and A. Courville, Deep Learning. MIT Press, 2016.</small>
 
 --- 
-
-Clustering etc. 
-
----
 
 ### Dimensionalty reduction
 
@@ -106,6 +102,10 @@ https://musicinformationretrieval.com/content/10_decomposition/pca.html
   - Notes on t-SNE: https://dash.gallery/dash-tsne/
 ---
 
+### Classification
+
+
+---
 
 --- 
 
