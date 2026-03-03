@@ -154,9 +154,19 @@ https://colah.github.io/posts/2014-10-Visualizing-MNIST/
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/214256505?h=33d8c5be5e" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
 
 ---
-<!-- _class: columns -->
 
 ### Deep Learning
+
+![bg right width:450](img/dl-comparison.png)
+
+Two great books to go deeper:
+
+- https://www.deeplearningbook.org/
+- https://udlbook.github.io/udlbook/
+
+---
+<!-- _class: columns -->
+
 
 <div>
 
@@ -170,12 +180,6 @@ If you are brave for more sections, here is an online tool for css grids: https:
 
 </div>
 
-
-Two great books to go deeper:
-
-- https://www.deeplearningbook.org/
-- https://udlbook.github.io/udlbook/
-  
 --- 
 
 ### Deep Learning - Fun Visualizations
