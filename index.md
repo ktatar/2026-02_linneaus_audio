@@ -204,7 +204,7 @@ Two great books to go deeper:
 ### DL based feature representations - Audio Specific
 
 - Continuous embeddings
-  - Stable Audio VAE
+  - Stable Audio VAE: 
   - SoundStream
 - Discrete (for codebooks and tokenization)
   - RQVAE 
@@ -222,3 +222,7 @@ Two great books to go deeper:
 - Simple ML approaches are as applicable as more complex ones.
 
 ---
+
+# Thank you! 
+
+Feel free to reach out -> tatar@chalmers.se
