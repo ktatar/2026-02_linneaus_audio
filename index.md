@@ -99,12 +99,9 @@ Dimensionalty reduction
 
 https://musicinformationretrieval.com/content/10_decomposition/pca.html
 
-UMAP
-
-https://www.kaggle.com/code/adampq/umap-projections-little-shop-of-horrors-audio
+UMAP: https://www.kaggle.com/code/adampq/umap-projections-little-shop-of-horrors-audio
   
-  T-SNE
-
+- T-SNE: https://ml4a.github.io/guides/AudioTSNEViewer/
 ---
 
 Distances
