@@ -194,7 +194,7 @@ Two great books to go deeper:
 ---
 ### DL based feature representations
 
-- Deep Embeddings: 
+- Deep Embeddings 
 - Variational Autoencoders
   - https://www.ibm.com/think/topics/variational-autoencoder
   - Live demo: https://www.siarez.com/projects/variational-autoencoder
@@ -207,8 +207,7 @@ Two great books to go deeper:
   - Stable Audio VAE: https://github.com/Stability-AI/stable-audio-tools
   - SoundStream: https://github.com/haydenshively/SoundStream
 - Discrete (for codebooks and tokenization)
-  - RQVAE: 
-
+  - RQGAN: https://github.com/descriptinc/descript-audio-codec?tab=readme-ov-file
 
 ---
 
