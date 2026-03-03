@@ -131,6 +131,7 @@ Detailed resources: https://www.ibm.com/think/topics/supervised-learning#1509394
 
 ### Deep Learning - Fun Visualizations
 
+- https://adamharley.com/nn_vis/
 - https://www.bulovic.at/cnn/
 
 ---
