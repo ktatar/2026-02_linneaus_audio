@@ -104,7 +104,8 @@ https://musicinformationretrieval.com/content/10_decomposition/pca.html
 
 ### Classification
 
-
+- Intro: 
+- Audio classification using Mediapipe: https://ai.google.dev/edge/mediapipe/solutions/audio/audio_classifier
 
 ---
 
