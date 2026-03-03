@@ -95,14 +95,18 @@ Clustering etc.
 
 ---
 
-Dimensionalty reduction
+### Dimensionalty reduction
 
+- Principle Component Analysis
 https://musicinformationretrieval.com/content/10_decomposition/pca.html
 
-UMAP: https://www.kaggle.com/code/adampq/umap-projections-little-shop-of-horrors-audio
+- UMAP: Uniform Manifold Approximation and Projection: https://www.kaggle.com/code/adampq/umap-projections-little-shop-of-horrors-audio
   
-- T-SNE: https://ml4a.github.io/guides/AudioTSNEViewer/
+- T-distributed stochastic neighbor embedding: https://ml4a.github.io/guides/AudioTSNEViewer/
 ---
+
+
+--- 
 
 Distances
 
