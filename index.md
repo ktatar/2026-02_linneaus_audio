@@ -5,12 +5,17 @@ math: katex
 paginate: true
 ---
 
-<!-- footer: <small><i style="font-size: 8pt;font-weight:500;color:black">AI in Computational Arts, Music, and Games </small></i> <p> ![width:350](chalmers-gu.png)</p> -->
+<!-- footer: <small><i style="font-size: 8pt;font-weight:500;color:black">Kıvanç Tatar, Associate Professor in Interactive AI </small></i> <p> ![width:350](chalmers-gu.png)</p> -->
 <!-- _color: black -->
 
 # Sound, Machine Learning, and Deep Generative Models: A Practical Introduction
 
 ![bg opacity:10% ](img/wave-stft-onset.png)
+
+
+![align-center width:150](img/qr_code.png)
+
+The slides are online -> https://ktatar.github.io/2026-02_linneaus_audio
 
 ---
 
