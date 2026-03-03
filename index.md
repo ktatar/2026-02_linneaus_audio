@@ -111,6 +111,20 @@ Detailed resources: https://www.ibm.com/think/machine-learning#605511093
 
 ---
 
+### Supervised Learning - Regression
+
+![align-center width:500](img/linear-regression.png)
+
+<small>Image source: https://python.plainenglish.io/understanding-multiple-linear-regression-in-machine-learning-58e981ce7747
+</small>
+
+---
+
+### Supervised Learning - Regression for Interactive Audio
+
+https://www.youtube.com/watch?v=dPV-gCqy9j4
+
+---
 ### Supervised Learning - Classification
 
 ![align-center width:600](img/mnist-classification.png)
@@ -124,15 +138,6 @@ Detailed resources: https://www.ibm.com/think/machine-learning#605511093
 ### Supervised Learning - Audio Classification
 
 Mediapipe: https://ai.google.dev/edge/mediapipe/solutions/audio/audio_classifier
-
----
-
-### Supervised Learning - Regression
-
-![align-center width:500](img/linear-regression.png)
-
-<small>Image source: https://python.plainenglish.io/understanding-multiple-linear-regression-in-machine-learning-58e981ce7747
-</small>
 
 ---
 
