@@ -117,6 +117,10 @@ Detailed resources: https://www.ibm.com/think/topics/supervised-learning#1509394
 
 ![align-center width:600](img/mnist-classification.png)
 
+
+<small>Image source: https://medium.com/data-science/image-classification-in-10-minutes-with-mnist-dataset-54c35b77a38d 
+</small>
+
 ---
 
 ### Supervised Learning - Audio Classification
