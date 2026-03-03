@@ -170,12 +170,15 @@ Two great books to go deeper:
 
 <div>
 
-![align-center width:45000](img/dl.png)
+![align-center height:450](img/dl.png)
 
 
 </div>
 <div>
 
+<br>
+<br>
+<br>
 
 ![align-center width:450](img/dl-ann.png)
 
