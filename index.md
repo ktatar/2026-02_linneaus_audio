@@ -104,6 +104,8 @@ https://musicinformationretrieval.com/content/10_decomposition/pca.html
 
 ### Supervised Learning 
 
+
+
 - Classification
 - Regression
 
@@ -113,8 +115,13 @@ Detailed resources: https://www.ibm.com/think/topics/supervised-learning#1509394
 
 ### Supervised Learning - Classification
 
-- Intro: 
-- Audio classification using Mediapipe: https://ai.google.dev/edge/mediapipe/solutions/audio/audio_classifier
+![align-center width:600](img/mnist-classification.png)
+
+---
+
+### Supervised Learning - Audio Classification
+
+Mediapipe: https://ai.google.dev/edge/mediapipe/solutions/audio/audio_classifier
 
 ---
 
