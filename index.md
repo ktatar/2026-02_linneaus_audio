@@ -145,11 +145,13 @@ Mediapipe: https://ai.google.dev/edge/mediapipe/solutions/audio/audio_classifier
 
 ### Unsupervised Learning - Clustering
 
-
+https://colah.github.io/posts/2014-10-Visualizing-MNIST/
 
 ---
 
-###
+### Unsupervised Learning - Clustering for Audio
+
+
 
 ---
 
