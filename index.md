@@ -103,6 +103,7 @@ https://musicinformationretrieval.com/content/10_decomposition/pca.html
 - UMAP: Uniform Manifold Approximation and Projection: https://www.kaggle.com/code/adampq/umap-projections-little-shop-of-horrors-audio
   
 - T-distributed stochastic neighbor embedding: https://ml4a.github.io/guides/AudioTSNEViewer/
+  - Notes on t-SNE: https://dash.gallery/dash-tsne/
 ---
 
 
