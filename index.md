@@ -151,13 +151,20 @@ https://colah.github.io/posts/2014-10-Visualizing-MNIST/
 
 ### Unsupervised Learning - Clustering for Audio
 
-
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/214256505?h=33d8c5be5e" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
 
 ---
 
 ### Deep Learning
 
 
+
+
+Two great books to go deeper:
+
+- https://www.deeplearningbook.org/
+- https://udlbook.github.io/udlbook/
+  
 --- 
 
 ### Deep Learning - Fun Visualizations
