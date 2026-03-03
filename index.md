@@ -204,8 +204,8 @@ Two great books to go deeper:
 ### DL based feature representations - Audio Specific
 
 - Continuous embeddings
-  - Stable Audio VAE: 
-  - SoundStream
+  - Stable Audio VAE: https://github.com/Stability-AI/stable-audio-tools
+  - SoundStream: 
 - Discrete (for codebooks and tokenization)
   - RQVAE 
 
