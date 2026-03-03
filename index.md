@@ -133,8 +133,14 @@ Mediapipe: https://ai.google.dev/edge/mediapipe/solutions/audio/audio_classifier
 
 ![align-center width:500](img/linear-regression.png)
 
-<small>Image source: https://medium.com/data-science/image-classification-in-10-minutes-with-mnist-dataset-54c35b77a38d 
+<small>Image source: https://python.plainenglish.io/understanding-multiple-linear-regression-in-machine-learning-58e981ce7747
 </small>
+
+---
+
+## Unsupervised Learning - Clustering
+
+
 
 ---
 
