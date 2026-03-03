@@ -196,6 +196,8 @@ Two great books to go deeper:
 
 - Deep Embeddings
 - Variational Autoencoders
+  - 
+  - Live demo: https://www.siarez.com/projects/variational-autoencoder
 
 ---
 
