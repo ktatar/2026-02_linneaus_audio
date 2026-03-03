@@ -170,13 +170,14 @@ Two great books to go deeper:
 
 <div>
 
-Originally solution from <https://github.com/orgs/marp-team/discussions/192#discussioncomment-1516155>
+![align-center width:45000](img/dl.png)
+
 
 </div>
 <div>
 
 
-If you are brave for more sections, here is an online tool for css grids: https://grid.layoutit.com/
+![align-center width:450](img/dl-ann.png)
 
 </div>
 
