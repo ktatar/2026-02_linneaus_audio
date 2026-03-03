@@ -194,9 +194,9 @@ Two great books to go deeper:
 ---
 ### DL based feature representations
 
-- Deep Embeddings
+- Deep Embeddings: 
 - Variational Autoencoders
-  - 
+  - https://www.ibm.com/think/topics/variational-autoencoder
   - Live demo: https://www.siarez.com/projects/variational-autoencoder
 
 ---
