@@ -122,8 +122,18 @@ Detailed resources: https://www.ibm.com/think/topics/supervised-learning#1509394
 
 
 
+---
+
+### Deep Learning
+
 
 --- 
+
+### Deep Learning - Fun Visualizations
+
+- 
+
+---
 
 Distances
 
