@@ -124,6 +124,8 @@ Detailed resources: https://www.ibm.com/think/machine-learning#605511093
 
 https://www.youtube.com/watch?v=dPV-gCqy9j4
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nx2Nj3I7NyU?si=5D-PemuLUUt3qepd&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
 ### Supervised Learning - Classification
 
