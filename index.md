@@ -131,7 +131,10 @@ Mediapipe: https://ai.google.dev/edge/mediapipe/solutions/audio/audio_classifier
 
 ### Supervised Learning - Regression
 
+![align-center width:500](img/linear-regression.png)
 
+<small>Image source: https://medium.com/data-science/image-classification-in-10-minutes-with-mnist-dataset-54c35b77a38d 
+</small>
 
 ---
 
