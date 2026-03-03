@@ -192,11 +192,11 @@ Two great books to go deeper:
 - https://www.bulovic.at/cnn/
 
 ---
-DL based feature representations
+### DL based feature representations
 
-  Deep Embeddings
-  Autoencoders
-  CLAP 
+- Deep Embeddings
+- Autoencoders
+- CLAP 
 
 ---
 
