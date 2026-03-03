@@ -102,12 +102,26 @@ https://musicinformationretrieval.com/content/10_decomposition/pca.html
   - Notes on t-SNE: https://dash.gallery/dash-tsne/
 ---
 
-### Classification
+### Supervised Learning 
+
+- Classification
+- Regression
+
+Detailed resources: https://www.ibm.com/think/topics/supervised-learning#1509394340
+
+---
+
+### Supervised Learning - Classification
 
 - Intro: 
 - Audio classification using Mediapipe: https://ai.google.dev/edge/mediapipe/solutions/audio/audio_classifier
 
 ---
+
+### Supervised Learning - Regression
+
+
+
 
 --- 
 
