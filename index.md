@@ -195,8 +195,18 @@ Two great books to go deeper:
 ### DL based feature representations
 
 - Deep Embeddings
-- Autoencoders
-- CLAP 
+- Variational Autoencoders
+
+---
+
+### DL based feature representations - Audio Specific
+
+- Continuous embeddings
+  - Stable Audio VAE
+  - SoundStream
+- Discrete (for codebooks and tokenization)
+  - RQVAE 
+
 
 ---
 
