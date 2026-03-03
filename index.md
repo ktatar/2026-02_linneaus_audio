@@ -192,18 +192,6 @@ Two great books to go deeper:
 - https://www.bulovic.at/cnn/
 
 ---
-
-Distances
-
-  For signals and features
-    Eucledian 
-    Cosine 
-    Frechet Audio Distance
-  For distributions
-    KL-Divergence
-
-
----
 DL based feature representations
 
   Deep Embeddings
