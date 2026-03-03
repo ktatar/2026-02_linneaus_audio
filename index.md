@@ -205,9 +205,9 @@ Two great books to go deeper:
 
 - Continuous embeddings
   - Stable Audio VAE: https://github.com/Stability-AI/stable-audio-tools
-  - SoundStream: 
+  - SoundStream: https://github.com/haydenshively/SoundStream
 - Discrete (for codebooks and tokenization)
-  - RQVAE 
+  - RQVAE: 
 
 
 ---
